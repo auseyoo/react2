@@ -1,0 +1,54 @@
+body {
+  background: #191f2c;
+  color:#fff;
+}
+.App {
+  max-width: 640px;
+  margin: 10px auto;
+  text-align: center;
+
+}
+.App .App-button {
+  margin: 10px;
+}
+.App .App-boards {
+  margin-top: 30px;
+}
+.Board {
+  display: inline-block;
+  padding: 35px 30px;
+  border-radius: 12px;
+  background: #272b38;
+}
+.Board .Board-heading {
+  margin: 45px auto 15px;
+  color:#888d9d;
+  font-weight: 400;
+  font-size: 18px;
+}
+.Board.app-board {
+  margin: 10px;
+}
+/* .profile{width: 300px;
+border-radius: 20px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+padding: 1rem;
+background: #fefeee;
+margin: 1rem;
+position: relative;
+}
+
+.photo{width: 100%;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+.new{position: absolute;
+background: tomato;
+border-radius: .5rem;
+color:#fff;
+padding: 3px;
+text-transform: uppercase;
+left: 237px;
+top: 33px;
+} */

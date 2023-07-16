@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.profile{width: 300px;
+border-radius: 20px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+padding: 1rem;
+background: #fefeee;
+margin: 1rem;
+position: relative;
+}
+
+.photo{width: 100%;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+.new{position: absolute;
+background: tomato;
+border-radius: .5rem;
+color:#fff;
+padding: 3px;
+text-transform: uppercase;
+left: 237px;
+top: 33px;
+}
